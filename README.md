@@ -108,9 +108,6 @@ Or use [n8n.cloud](https://n8n.io/cloud) for easy deployment.
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
